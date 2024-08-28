@@ -34,7 +34,7 @@ Nano-quadcopters are widely used due to their small size and agility, but struct
 
 ## Results
 
-The DNN model outperformed all other models, achieving the highest accuracy, precision, recall, and F1 scores at 99%. It also demonstrated the fastest inference time, making it ideal for real-time fault detection in UAVs.
+The DNN model outperformed all other models, achieving the highest accuracy, precision, recall, and F1 scores at 98.63%. It also demonstrated the fastest inference time, making it ideal for real-time fault detection in UAVs.
 
 ## Conclusion
 
